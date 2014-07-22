@@ -1,25 +1,34 @@
-BubbleSort
-==========
+# We Got Coders Week 1 Coursework 
 
-A skeleton app and test for the bubble sort algorithm.
+We Got Coders is a consultancy that provides experts in agile web development, specialising in Ruby technology.
 
-# Install
+http://wegotcoders.com/
 
-1. Fork this repo
-2. git clone your own copy to your projects folder.
-3. cd ~/projects/BubbleSort
+## Brief
 
-# TODO
+You can find the brief for this project here:
 
-Let's add some functionality to the Array class, so that we have some useful
-methods.
+https://github.com/dan-mi-sun/bubble-sort/blob/master/BRIEF.md
 
-As of now the test will fail. This is good, as in TDD we like to specify how the program works first, see the test fail, then add the implementation. So you need to finish your implementation so that the test passes!
+### Aims
+Build a calculator written in Ruby using the Shoes graphical API.
 
-# To run
+### Notes
+http://dan-mi-sun.github.io/week1day1-intro-to-ruby-strings-control-structures/
 
-```ruby my_amazing_test.rb```
+####Notes from WeGotCoders:
+http://dan-mi-sun.github.io/
 
-# Submission
+http://dan-mi-sun.github.io/wegotcoders/why-code-with-we-got-coders/
 
-Once you're done, push your code to your repo and send me a pull request.
+http://dan-mi-sun.github.io/wegotcoders/reflections-on-8-weeks-with-we-got-coders/
+
+http://dan-mi-sun.github.io/wegotcoders/reflections-on-12-weeks-with-we-got-coders/
+
+
+####Contact
+twitter: @dan_mi_sun
+
+gmail: dan.mi.sun@gmail.com
+
+uk.linkedin.com/in/danielsundigital/
