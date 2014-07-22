@@ -11,7 +11,7 @@ You can find the brief for this project here:
 https://github.com/dan-mi-sun/bubble-sort/blob/master/BRIEF.md
 
 ### Aims
-Build a calculator written in Ruby using the Shoes graphical API.
+A skeleton app and test for the bubble sort algorithm.
 
 ### Notes
 http://dan-mi-sun.github.io/week1day1-intro-to-ruby-strings-control-structures/
